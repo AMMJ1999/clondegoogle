@@ -4,7 +4,7 @@
 
 * [1. Intro](https://github.com/AMMJ1999/clondegoogle#1-intro)
 * [2. Qué construí](https://github.com/AMMJ1999/clondegoogle#2-qu%C3%A9-constru%C3%AD)
-* [3. Objetivo del proyecto](#)
+* [3. Objetivo del proyecto](https://github.com/AMMJ1999/clondegoogle#3-objetivo-del-proyecto)
 
 ****
 
@@ -23,5 +23,5 @@ En este proyecto me enfoque en contruir la clonación de la Interfaz de Google. 
 
 * **Footer**: Sección que incluye hipervínculos al final de la página.
 
-## Objetivo del Proyecto
+## 3. Objetivo del Proyecto
 Aprender a utilizar las etiquetas estándar de HTML4 y los estilos de CSS3.
